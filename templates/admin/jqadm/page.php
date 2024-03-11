@@ -132,7 +132,7 @@ $after = is_array( $after ) ? $after['_'] ?? reset( $after ) : $after;
 		<div class="sidebar-wrapper">
 
 		<a class="logo"  href="/">
-				<img src="../../../assets/logo.jpeg" alt="Hansa Store logo" title="Hasna Store logo">
+				<img src="/images/logo.jpeg" alt="Hansa Store logo" title="Hasna Store logo">
 			</a>
 
 
