@@ -260,9 +260,6 @@ $after = is_array( $after ) ? $after['_'] ?? reset( $after ) : $after;
 	</main>
 
 	<footer class="main-footer">
-		<a href="https://github.com/aimeos/ai-admin-jqadm/issues" target="_blank">
-			<?= $enc->html( $this->translate( 'admin', 'Bug or suggestion?' ) ) ?>
-		</a>
 	</footer>
 
 	<?= $this->partial( $this->config( 'admin/jqadm/partial/confirm', 'confirm' ) ) ?>
