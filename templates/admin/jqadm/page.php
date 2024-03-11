@@ -131,6 +131,9 @@ $after = is_array( $after ) ? $after['_'] ?? reset( $after ) : $after;
 	<nav class="main-sidebar">
 		<div class="sidebar-wrapper">
 
+		<a class="logo"  href="/">
+				<img src="http://localhost:8000/images/logo.jpeg" alt="Hansa Store logo" title="Hasna Store logo">
+			</a>
 
 
 			<ul class="sidebar-menu">
