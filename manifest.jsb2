@@ -1,0 +1,22 @@
+{
+	"projectName": "change-config-theme",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "change-config-theme CSS",
+		"file": "change-config-theme.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "change-config-theme JS",
+		"file": "change-config-theme.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
